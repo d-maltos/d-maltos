@@ -8,10 +8,10 @@
 ⚡ When I'm not here building cool projects you can find me in the gym, traveling and doing photography ⚡
 
 ## Skills 🔥
-- C/C++
-- Python
-- JavaScript
-- SQL
+- **Languages:** C/C++, Python, JavaScript, SQL
+- **Libraries:** Pandas, Numpy, Matplotlib, FastAPI, OpenCV, TensorFlow
+- **Frameworks:** Node.js, Express.js, React.js, Chart.js
+- **Dev Tools:** AWS, Docker, MongoDB, GCP, MySQLServer, Hadoop
   
 ## Contact 📧
 dmmaltos@alaska.edu | dmmaltos@gmail.com | [LinkedIn](https://www.linkedin.com/in/dylanmaltos) | [Website](https://maltos.io)
