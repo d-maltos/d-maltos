@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👋 Hello, I'm Dylan! 👋
+📚 Currently - Studying computer science at University of Alaska Fairbanks and interning at Alaska Satellite Facility. 💻
+📌 Previously - Interned at the Geographic Information Network of Alaska and Yubico. 📌
+😃 Interested in machine learning, backend and system software engineering. 😃 
 
-<!--
-**d-maltos/d-maltos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ When I'm not here building cool projects you can find me in the gym, traveling and doing photography. ⚡
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Skills 🔥
+- C/C++
+- Python
+- Java
+- SQL
+  
+## 📧 Contact 📧
+📫 dmmaltos@alaska.edu | dmmaltos@gmail.com | linkedin.com/in/dylanmaltos | maltos.io 📫
