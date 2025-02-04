@@ -14,4 +14,4 @@
 - SQL
   
 ## Contact 📧
-📫 dmmaltos@alaska.edu | dmmaltos@gmail.com | linkedin.com/in/dylanmaltos | maltos.io 📫
+dmmaltos@alaska.edu | dmmaltos@gmail.com | linkedin.com/in/dylanmaltos | maltos.io 
