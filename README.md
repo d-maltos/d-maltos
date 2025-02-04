@@ -8,7 +8,7 @@
 ⚡ When I'm not here building cool projects you can find me in the gym, traveling and doing photography ⚡
 
 ## Skills 🔥
-- **Languages:** C/C++, Python, JavaScript, SQL, Java, Go
+- **Languages:** C, C++, Python, JavaScript, SQL, Java, Go
 - **Libraries:** Pandas, NumPy, Matplotlib, FastAPI, OpenCV, TensorFlow
 - **Frameworks:** Node.js, Express.js, React.js, Chart.js
 - **Dev Tools:** AWS, Docker, MongoDB, GCP, MySQLServer, Hadoop
