@@ -7,6 +7,8 @@
 
 ⚡ When I'm not here building cool projects you can find me in the gym, traveling and doing photography ⚡
 
+⬇️ See what I'm building ⬇️
+
 ## Skills 🔥
 - **Languages:** C, C++, Python, JavaScript, SQL, Java, Go
 - **Libraries:** Pandas, NumPy, Matplotlib, FastAPI, OpenCV, TensorFlow
@@ -15,6 +17,3 @@
   
 ## Contact 📧
 dmmaltos@alaska.edu | dmmaltos@gmail.com | [LinkedIn](https://www.linkedin.com/in/dylanmaltos) | [Website](https://maltos.io)
-
-
-⬇️ See what I'm building ⬇️
