@@ -13,7 +13,7 @@
 - **Languages:** C, C++, Python, JavaScript, SQL, Java, Go
 - **Libraries:** Pandas, NumPy, Matplotlib, OpenCV, TensorFlow
 - **Frameworks:** Node.js, Express.js, React.js, Chart.js, FastAPI
-- **Dev Tools:** AWS, Docker, MongoDB, GCP, MySQLServer, Hadoop
+- **Dev Tools:** AWS, Docker, MongoDB, GCP, MySQL, Hadoop
   
 ## Contact 📧
 dmmaltos@alaska.edu | dmmaltos@gmail.com | [LinkedIn](https://www.linkedin.com/in/dylanmaltos) | [Website](https://maltos.io)
