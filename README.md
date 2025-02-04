@@ -11,8 +11,8 @@
 
 ## Skills 🔥
 - **Languages:** C, C++, Python, JavaScript, SQL, Java, Go
-- **Libraries:** Pandas, NumPy, Matplotlib, FastAPI, OpenCV, TensorFlow
-- **Frameworks:** Node.js, Express.js, React.js, Chart.js
+- **Libraries:** Pandas, NumPy, Matplotlib, OpenCV, TensorFlow
+- **Frameworks:** Node.js, Express.js, React.js, Chart.js, FastAPI
 - **Dev Tools:** AWS, Docker, MongoDB, GCP, MySQLServer, Hadoop
   
 ## Contact 📧
