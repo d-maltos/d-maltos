@@ -10,7 +10,7 @@
 ## Skills 🔥
 - C/C++
 - Python
-- Java
+- JavaScript
 - SQL
   
 ## Contact 📧
