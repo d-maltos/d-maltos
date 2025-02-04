@@ -7,7 +7,7 @@
 
 ⚡ When I'm not here building cool projects you can find me in the gym, traveling and doing photography ⚡
 
-⬇️ See what I'm building ⬇️
+⬇️ See what I'm building and feel free to reach out for colloboration ⬇️
 
 ## Skills 🔥
 - **Languages:** C, C++, Python, JavaScript, SQL, Java, Go
