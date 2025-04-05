@@ -16,4 +16,4 @@
 - **Dev Tools:** AWS, Docker, MongoDB, GCP, MySQL, Hadoop
   
 ## Contact 📧
-dmmaltos@alaska.edu | [LinkedIn](https://www.linkedin.com/in/dylanmaltos) | [Website](https://maltos.io)
+[LinkedIn](https://www.linkedin.com/in/dylanmaltos) | [Website](https://maltos.io)
