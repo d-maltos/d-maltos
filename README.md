@@ -1,5 +1,5 @@
 ## Hello, I'm Dylan 👋
-📌  Currently studying computer science at University of Alaska Fairbanks and interning at Alaska Satellite Facility 📚
+📌  Recently graduated from University of Alaska Fairbanks with a degree in computer science and working at Alaska Satellite Facility 📚
 
 📌  Previously interned at the Geographic Information Network of Alaska and Yubico 💻
 
