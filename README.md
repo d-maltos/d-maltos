@@ -1,9 +1,11 @@
 ## Hello, I'm Dylan 👋
 📌  Recent CS graduate from University of Alaska Fairbanks and looking for a new opportunity to buiild 📚
 
-📌  Previously interned at Geographic Information Network of Alaska, Yubico and Alaska Satellite Facility 💻
+📌  Previously interned at the Geographic Information Network of Alaska, Yubico and Alaska Satellite Facility 💻
 
-📌  Interested in machine learning, backend, infrastructure and system software engineering 😃 
+📌  Interested in machine learning, backend, infrastructure and system software engineering 😃
+
+📌  Currently learning: Go and TypeScript for backend APIs and scalable system design 📈 
 
 ⚡ When I'm not here building cool projects you can find me in the gym, traveling and doing photography ⚡
 
