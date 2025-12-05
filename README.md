@@ -1,5 +1,5 @@
 ## Hello, I'm Dylan 👋
-📌  Recent CS graduate from University of Alaska Fairbanks and looking for a new opportunity to buiild 📚
+📌  Recent CS graduate from University of Alaska Fairbanks and looking for a new opportunity to build 📚
 
 📌  Previously interned at the Geographic Information Network of Alaska, Yubico and Alaska Satellite Facility 💻
 
