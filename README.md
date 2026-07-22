@@ -5,12 +5,6 @@
 
 📌  Interested in machine learning, backend, infrastructure and system software engineering 😃
 
-📌  Currently learning: Go and TypeScript for backend APIs and scalable system design 📈 
-
-⚡ When I'm not here building cool projects you can find me in the gym, traveling and doing photography ⚡
-
-⬇️ See what I'm building and feel free to reach out for collaboration ⬇️
-
 ## Skills 🔥
 - **Languages:** C, C++, Python, JavaScript, SQL, Java, Go, TypeScript
 - **Libraries:** Pandas, NumPy, Matplotlib, OpenCV, TensorFlow
