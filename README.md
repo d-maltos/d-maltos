@@ -3,7 +3,7 @@
 - Previously interned at the Geographic Information Network of Alaska, Yubico and Alaska Satellite Facility 
 - Interested in machine learning, backend, infrastructure and system software engineering 
 
-## Skills 🔥
+## Skills 👨‍💻
 - **Languages:** C, C++, Python, JavaScript, SQL, Java, Go, TypeScript
 - **Libraries:** Pandas, NumPy, Matplotlib, OpenCV, TensorFlow
 - **Frameworks:** Node.js, Express.js, React.js, Chart.js, FastAPI
