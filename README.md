@@ -1,5 +1,5 @@
 ## Hello, I'm Dylan 👋
-📌  CS graduate from the University of Alaska Fairbanks and current Software Engineer at Picogrid 📚
+📌  CS graduate from the University of Alaska Fairbanks and Software Engineer at Picogrid 📚
 
 📌  Previously interned at the Geographic Information Network of Alaska, Yubico and Alaska Satellite Facility 💻
 
